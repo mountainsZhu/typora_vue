@@ -1229,41 +1229,41 @@ var temp = new Vue({
 
 ①搜索需要的icon，添加入库
 
-![image-20201115112556480](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20201115112556480.png)
+![image-20201115112556480](https://raw.githubusercontent.com/mountainsZhu/TyporaImage/main/img/image-20201115112556480.png)
 
 ②打开自己的库，选择添加到项目（先得自己创建一个项目）
 
-![image-20201115112742794](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20201115112742794.png)
+![image-20201115112742794](https://raw.githubusercontent.com/mountainsZhu/TyporaImage/main/img/image-20201115112742794.png)
 
 ③进入我的项目，下载图标
 
-![image-20201115112900044](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20201115112900044.png)![image-20201115112925915](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20201115112925915.png)
+![image-20201115112900044](https://raw.githubusercontent.com/mountainsZhu/TyporaImage/main/img/image-20201115112900044.png)![image-20201115112925915](https://raw.githubusercontent.com/mountainsZhu/TyporaImage/main/img/image-20201115112925915.png)
 
 ④最后在vue项目中创建icon项目，将下列文件添加进去
 
-![image-20201115113044023](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20201115113044023.png)
+![image-20201115113044023](https://raw.githubusercontent.com/mountainsZhu/TyporaImage/main/img/image-20201115113044023.png)
 
 
 
-⑤在前端通过下列方式引用![image-20201115113219594](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20201115113219594.png)
+⑤在前端通过下列方式引用![image-20201115113219594](https://raw.githubusercontent.com/mountainsZhu/TyporaImage/main/img/image-20201115113219594.png)
 
 ### 一些格式控制技巧
 
 1.控制横向位置：
 
-![image-20201115113412352](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20201115113412352.png)
+![image-20201115113412352](https://raw.githubusercontent.com/mountainsZhu/TyporaImage/main/img/image-20201115113412352.png)
 
 2.控制输入只有数字
 
-![image-20201115113554759](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20201115113554759.png)
+![image-20201115113554759](https://raw.githubusercontent.com/mountainsZhu/TyporaImage/main/img/image-20201115113554759.png)
 
 3.控制输入只有数字和小数点
 
-![image-20201115113619367](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20201115113619367.png)
+![image-20201115113619367](https://raw.githubusercontent.com/mountainsZhu/TyporaImage/main/img/image-20201115113619367.png)
 
 4.背景图片添加
 
-![image-20201115113924175](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20201115113924175.png)![image-20201115113936852](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20201115113936852.png)
+![image-20201115113924175](https://raw.githubusercontent.com/mountainsZhu/TyporaImage/main/img/image-20201115113924175.png)![image-20201115113936852](https://raw.githubusercontent.com/mountainsZhu/TyporaImage/main/img/image-20201115113936852.png)
 
 通过id+#id css样式控制
 
